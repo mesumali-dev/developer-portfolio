@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Mesum Ali — Modern Developer Portfolio
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-14%2B-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v3-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-First, run the development server:
+> Personal full-stack developer portfolio showcasing production web applications, open-source projects, technical competencies, and software engineering experience.
+
+---
+
+## ✨ Features
+
+- **Curated Projects Showcase:** Highlights full-stack applications with architecture overviews, tech stacks, and live links.
+- **Interactive Experience Timeline:** Clean visual presentation of development experience, hackathons, and technical milestones.
+- **Technical Skills Matrix:** Categorized overview of frontend, backend, AI/ML tools, and DevOps capabilities.
+- **Responsive & Accessible Design:** Mobile-first layout with smooth animations and accessibility (a11y) standards.
+- **Contact Channel:** Integrated contact form for client inquiries and collaboration proposals.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS, PostCSS
+- **Component Architecture:** Modular React Components
+- **Deployment:** Vercel
+
+---
+
+## 🚀 Local Development
 
 ```bash
+# Clone the repository
+git clone https://github.com/mesumali-dev/developer-portfolio.git
+
+# Navigate into directory
+cd developer-portfolio
+
+# Install packages
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👨‍💻 Connect with Me
+- **GitHub:** [@mesumali-dev](https://github.com/mesumali-dev)
+- **Email:** s.mesumali99@gmail.com
