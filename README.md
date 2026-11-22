@@ -4,6 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v3-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![CI](https://github.com/mesumali-dev/developer-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/mesumali-dev/developer-portfolio/actions)
 
 > Personal full-stack developer portfolio showcasing production web applications, open-source projects, technical competencies, and software engineering experience.
 
