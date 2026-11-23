@@ -1,4 +1,4 @@
-# 🌐 Mesum Ali | Modern Developer Portfolio
+# Mesum Ali | Modern Developer Portfolio
 
 [![Next.js](https://img.shields.io/badge/Next.js-14%2B-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Curated Projects Showcase:** Highlights full-stack applications with architecture overviews, tech stacks, and live links.
 - **Interactive Experience Timeline:** Clean visual presentation of development experience, hackathons, and technical milestones.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** Next.js (App Router)
 - **Language:** TypeScript
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Local Development
+## Local Development
 
 ```bash
 # Clone the repository
@@ -48,6 +48,6 @@ npm run dev
 
 ---
 
-## 👨‍💻 Connect with Me
+## ‍ Connect with Me
 - **GitHub:** [@mesumali-dev](https://github.com/mesumali-dev)
 - **Email:** s.mesumali99@gmail.com
